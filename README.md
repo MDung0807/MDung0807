@@ -1,129 +1,53 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Aadit Kamat, a final year student at the NUS School of Computing
-
-- 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
-- 👯 I'm happy to collaborate on any web development or data science project
-- 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
-- 📫 How to reach me: 
-     - Personal: aadit.k12@gmail.com
-     - School: aadit_kamat@u.nus.edu
-
-### Social media profiles
-<p align="left">
-<a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/541515000926306316"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Aadit-Kamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
 </p>
 
-### Languages and Tools
-<p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg" alt="Ruby" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haskell.svg" alt="Haskell" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg" alt="Ruby on Rails" height="30" width="40" />
-</p>
- 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&redirect=true)
+## Hi there! Sajid Here
 
-### My GitHub stats 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-kabir-748b57211/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sajiudulkabiradib@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sajidulkabir.adib/)
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, Problem Solving and customer-driven iterative Product Development. Loves to work in a team setting and learn new skills and implementing them. Areas of interests consist of System Design, Decentralized Systems, Web3, Testing and Refactoring, Software Architecture.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
+### Tech Stack
 
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 575 Contributions in the Year 2020
- > 
-> 📦 163.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
-🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-
+```json
+{
+  "language": ["javascript", "c++", "java", "typescript", "c"],
+  "frontend": ["vue", "react", "next", "css", "sass"],
+  "backend": ["node", "express", "nest"],
+  "testing": ["jest", "mocha"]
+  "database": ["mysql", "mongodb", "postgresql", "redis"],
+  "devOps": ["docker", "github-actions"],
+}
 ```
 
+</br>
 
-📊 **This Week I Spent My Time On** 
+### Github Stats
 
-```text
-⌚︎ Time Zone: Asia/Singapore
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajidul-kabir&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+<br />
 
-💬 Programming Languages: 
-Python                   15 hrs 39 mins      ████████████████████░░░░░   82.87% 
-Docker                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Git Config               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajidul-kabir&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Sajidul Kbair Github Stats">
 
-🔥 Editors: 
-PyCharm                  18 hrs 53 mins      █████████████████████████   100.0%
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidul-kabir&layout=compact&theme=dark&bg_color=0A0A0A" alt="Sajidul Kabir Top Languages"/>
+<br />
 
-💻 Operating System: 
-Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
-Mac                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19%
+### About me:
 
-```
+- 🔭 I’m currently working on: Web Applications
+- 🌱 I’m currently learning: Vue.js, jest, CI/CD
+- 👯 I’m looking to collaborate on: Large scale web projects
+- 🤔 I’m looking for help with: System Design, Software Architechture
+- 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
+- ⚡ Fun fact: Otters are cool
 
-**I Mostly Code in JavaScript** 
+---
 
-```text
-JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+Credit: [sajidul-kabir](https://github.com/sajidul-kabir)
 
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
------
-Credits: [aaditkamat](https://github.com/aaditkamat)
-
-Last Edited on: 27/12/2020
+Last Edited on: 26/08/2022
