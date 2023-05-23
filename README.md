@@ -85,6 +85,3 @@ Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, 
 </p>
 <br>
 
-
-
-Credit: [MDung0807](https://github.com/MDung0807)
